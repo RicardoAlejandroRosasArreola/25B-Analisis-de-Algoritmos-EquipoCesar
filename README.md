@@ -33,9 +33,9 @@ Librerias:
 
 ## Instrucciones de Ejecución
 
-Ejecutar el arcchivo `proyecto_cesar.py` ubicado en la carpeta `src/`:
+Ejecutar el arcchivo `ProyectoCesar_Codigo.py` ubicado en la carpeta `src/`:
 ```
-python src/proyecto_cesar.py
+python src/ProyectoCesar_Codigo.py
 ```
 
 > [!IMPORTANT]
